@@ -1,15 +1,13 @@
 # Code 201 Reading Notes
 
 
+## Table Of Contents
 <ul>
-  <li>
-  Table Of Contents
-  Glossery
-  Expectations
-  Required Outcome
-  Daily Dairy
-  To Do
-  </li>
+  <li> Glossery </li>
+  <li> Expectations </li>
+  <li> Glossery </li>
+  <li> Daily Dairy </li>
+  <li> To Do</li>
 </ul>
 
 # Daily Diary / Notes Href.
