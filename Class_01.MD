@@ -1,4 +1,4 @@
-#Class day one
+# Class day one
 
 Day one Class. Will HREF from Main Table of contents. Reading/Skimming
 Chapters 1, 8, 17, and 18
@@ -34,13 +34,12 @@ Structure is probably the number 1 most over thought process of anything in life
         <li>Html4</li>
         <li>X Html 1.0</li>
         <li> Html5 </li>
-        
-        
-    <li>Identifying and Grouping Elements</li>
+   
+   <li>Identifying and Grouping Elements</li>
           Each Element can carry an ID Attribute
             ID Attributers uniquely idenitfy that element from other elemenets.
     
-    <li>Comments, Meta Information and Iframes</li>
+   <li>Comments, Meta Information and Iframes</li>
         Comments are identified as  
   </ul>
   
