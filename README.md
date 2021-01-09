@@ -12,6 +12,7 @@
 
 # Daily Diary / Notes Href.
 ## Day 1
+(/day_01.md)
 
 ## Day 2
 
