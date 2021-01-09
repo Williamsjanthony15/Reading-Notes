@@ -12,7 +12,7 @@
 
 # 201 Table Of Contents
 
-## [Day 1](Reading-Notes/Class_01.md)
+## [Day 1](Class-01.md)
 
 ## [Day 2](ReadingNotes_201/Class_02.md)
 
