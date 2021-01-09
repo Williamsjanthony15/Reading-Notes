@@ -41,9 +41,7 @@ Structure is probably the number 1 most over thought process of anything in life
             ID Attributers uniquely idenitfy that element from other elemenets.
     
     <li>Comments, Meta Information and Iframes</li>
-        Comments are identified as <!-- "Comment goes here" --> 
-  
-  <!-- Dont forget about escape Characters --> 
+        Comments are identified as  
   </ul>
   
   ## HTML 5 Layout
