@@ -47,10 +47,10 @@ Structure is probably the number 1 most over thought process of anything in life
   
   This is the summary page from the book, reading this chapter was kind of hard to pull notes from without just understanding it. Definelty something i would like to study more but not something i feel needed to spend to much time on at the moment. WIll follow up on at a later time. 
   <ul>
-    <li>The new HTML5 elements indicate the purpose different parts ofa webpage and help to describe its structure. </li>
-    <li>The new elements provide clearer code (comapred with using multiple <div> elements). </li>
-    <li>Older browers that do not understand HTML5 elements need to be told which elements are block-level elements</li>
-    <li>To make HTML5 elements work in Internet Explorer 8 (and older versions of IE) extra javascript is needed, which is available free from google</li>
+    <li> The new HTML5 elements indicate the purpose different parts ofa webpage and help to describe its structure. </li>
+    <li> The new elements provide clearer code (comapred with using multiple div> elements). </li>
+    <li> Older browers that do not understand HTML5 elements need to be told which elements are block-level elements</li>
+    <li> To make HTML5 elements work in Internet Explorer 8 (and older versions of IE) extra javascript is needed, which is available free from google</li>
   </ul>
   
   
