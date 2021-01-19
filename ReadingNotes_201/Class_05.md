@@ -1,4 +1,3 @@
-
 # Day 5 of notes
 
 # Lists
@@ -14,7 +13,6 @@
     <li>Unordered List's </li>
       <ul>
         <li> Are lists that begin with a bullet point (rather than characters that indicate order)</li>
-        <li> 
       </ul>
     <li>Devifintion Lists</li>
       <ul>
