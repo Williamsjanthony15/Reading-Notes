@@ -1,0 +1,1 @@
+## Reading 09 for initial submission. Have notes, just need to format. 
