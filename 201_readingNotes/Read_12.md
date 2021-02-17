@@ -1,139 +1,20 @@
- Read 10
+# Read 12
 
+## Chart.js
 
-###
-
-<li></li>
+<li>Making a chart in JS and Utilizing JS to make the Chart whatever way you want.</li>
 
 ####
+This is the code for the HTML doc you need to add.
+ <!DOCTYPE html>
+<!-- <html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Chart.js demo </title>
+  <script src='chart.min.js'></script>
+</head>
+<body>
+</body>
+</html> -->
 
-<ul>
-<li></li>
-
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ol>
- 
-####
- 
-<ol>
-<li></li>
-<li></li>
-<li></li>
-</ol>
- 
-####
-<p></p>
- 
-<ul>
-<li></li>
- 
-####
-
-<ul>
-
-<li></li>
-<p></p>
-
-<ol>
-<li></li>
-<li></li>
-</ol>
-
-<li></li>
-
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ol>
-
-<li></li>
-<li></li>
-
-</ul>
-</ul>
-</ul>
- 
-##
-<p></p>
- 
-### 
-<p></p>
-<ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
- 
-###
-<p></p>
-<ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
- 
-<ul>
-<p></p>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
- 
-###
-<p></p>
-<ul>
-<p>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-</ol>
- 
-<li></li>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ol>
-
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-
-# JavaScript
-
-##
-
-###
-
-<p> </p>
-<ul>
-<p></p>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-
-</ul>
 
