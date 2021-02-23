@@ -67,5 +67,81 @@
   transform: scale(.5, 1.15);
 }
 
+# Transitions & Animations
 
+## Transitions
+ <p> With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted. </p>
+ 
+ <li> change its background color over the course of 1 second in a linear fashion. </li>
+ 
+.box {
+  background: #2db34a;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+.box:hover {
+  background: #ff7b29;
+}
+
+### Transitional Property
+<p> The transition-property property determines exactly what properties will be altered in conjunction with the other transitional properties. By default, all of the properties within an element’s different states will be altered upon change. However, only the properties identified within the transition-property value will be affected by any transitions. </p>
+
+<p> If multiple properties need to be transitioned they may be comma separated within the transition-property value. Additionally, the keyword value all may be used to transition all properties of an element. </p>
+
+.box {
+    background: #2db34a;
+    border-radius: 6px
+    transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+  }
+  .box:hover {
+    background: #ff7b29;
+    border-radius: 50%;
+  }
+
+## ***Note not all properties may be transitioned, only properties that have an identifiable halfway point.*** 
+
+
+
+
+## Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
+
+## Popular Transitioning Properties
+
+<li>background-color</li>
+<li>border-width</li>
+<li>clip</li>
+<li>font-size</li>
+<li>left</li>
+<li>margin</li>
+<li>min-height</li>
+<li>outline-color</li>
+<li>padding</li>
+<li>text-shadow</li>
+<li>visibility</li>
+<li>z-index</li>
+<li>background-position</li>
+<li>border-spacing</li>
+<li>color</li>
+<li>font-weight</li>
+<li>letter-spacing</li>
+<li>max-height</li>
+<li>min-width</li>
+<li>outline-offset</li>
+<li>right</li>
+<li>top</li>
+<li>width</li>
+<li>border-color</li>
+<li>bottom</li>
+<li>crop</li>
+<li>height</li>
+<li>line-height</li>
+<li>max-width</li>
+<li>opacity</li>
+<li>outline-width</li>
+<li>text-indent</li>
+<li>vertical-align</li>
+<li>word-spacing</li>
 
