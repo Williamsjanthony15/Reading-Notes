@@ -67,6 +67,9 @@
   transform: scale(.5, 1.15);
 }
 
+
+
+
 # Transitions & Animations
 
 ## Transitions
@@ -87,6 +90,7 @@
 ### Transitional Property
 <p> The transition-property property determines exactly what properties will be altered in conjunction with the other transitional properties. By default, all of the properties within an element’s different states will be altered upon change. However, only the properties identified within the transition-property value will be affected by any transitions. </p>
 
+
 <p> If multiple properties need to be transitioned they may be comma separated within the transition-property value. Additionally, the keyword value all may be used to transition all properties of an element. </p>
 
 .box {
@@ -101,14 +105,9 @@
     border-radius: 50%;
   }
 
-## ***Note not all properties may be transitioned, only properties that have an identifiable halfway point.*** 
+***Note not all properties may be transitioned, only properties that have an identifiable halfway point.*** 
 
-
-
-
-## Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
-
-## Popular Transitioning Properties
+### Popular Transitioning Properties
 
 <li>background-color</li>
 <li>border-width</li>
@@ -145,3 +144,6 @@
 <li>vertical-align</li>
 <li>word-spacing</li>
 
+## Transition Duration
+
+<p> The duration in which a transition takes place is set using the transition-duration property. The value of this property can be set using general timing values, including seconds (s) and milliseconds (ms).</p>
