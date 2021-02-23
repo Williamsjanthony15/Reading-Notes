@@ -147,3 +147,199 @@
 ## Transition Duration
 
 <p> The duration in which a transition takes place is set using the transition-duration property. The value of this property can be set using general timing values, including seconds (s) and milliseconds (ms).</p>
+
+
+
+# CSS TRICKS
+
+## All of these effects (bar one) are controlled with the transition property. So we can see these effects working, we’ll set up a div in an HTML page:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css">
+    </style>
+</head>
+<body>
+    <div></div>
+</body>
+</html>
+
+
+## Having done so, set its width and height (so it has dimensions), its background color (so we can see it) and its transition property.
+
+
+<style type="text/css">
+body > div
+{
+            width:483px;
+            height:298px;
+            background:#676470;
+            transition:all 0.3s ease;
+}
+</style>
+
+
+1. Fade in
+
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+
+2. Change color
+
+.color:hover
+{
+        background:#53a7ea;
+}
+
+
+3. Grow & Shrink
+
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+
+
+.shrink:hover
+{
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+}
+
+
+4. Rotate elements
+
+.rotate:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+}
+
+
+5. Square to circle
+
+.circle:hover
+{
+        border-radius:50%;
+}
+
+
+6. 3D shadow
+
+.threed:hover
+{
+        box-shadow:
+                1px 1px #53a7ea,
+                2px 2px #53a7ea,
+                3px 3px #53a7ea;
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+}
+
+
+7. Swing
+
+@-webkit-keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+       transform: translateX(-5px);
+    } 
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+@keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+        transform: translateX(-5px);
+    }
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+.swing:hover
+{
+        -webkit-animation: swing 1s ease;
+        animation: swing 1s ease;
+        -webkit-animation-iteration-count: 1;
+        animation-iteration-count: 1;
+}
+
+
+8. Inset border
+
+.border:hover
+{
+        box-shadow: inset 0 0 0 25px #53a7ea;
+}
+
+
+
+
+
+
+
+
+
+
