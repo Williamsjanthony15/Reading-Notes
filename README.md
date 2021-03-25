@@ -1,6 +1,6 @@
 # Reading Notes
 
-<p> Reading Notes is the accumlated notes over the course of the 201 / 301 / 401 Courses. </p>
+<p> Reading Notes is the accumlated notes over the course of the 102/ 201 / 301 / 401 Courses. </p>
 
 <ul>
   
