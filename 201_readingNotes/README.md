@@ -12,9 +12,9 @@
 
 # 201 Table Of Contents
 
-## [Reading Day 1](Reading-Notes/201_readingNotes/Read_01.md)
+## [Reading Day 1](/201_readingNotes/Read_01.md)
 
-## [Reading Day 2](Reading-Notes/201_readingNotes/Read_02.md)
+## [Reading Day 2](201_readingNotes/Read_02.md)
 
 ## [Reading Day 3](Reading-Notes/201_readingNotes/Read_03.md)
 
