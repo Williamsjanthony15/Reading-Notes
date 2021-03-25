@@ -1,3 +1,13 @@
+On the main page:
+Include a level-1 heading titled Reading Notes
+Include a description of what this web site is about
+Include a level-2 heading for each course, ie:
+Code 102 - Intro to Software Development
+Code 201 - Foundations of Software Development
+Code 301 - Intermediate Software Development
+Code 401 - Advanced Software Development
+
+
 # Code 201 Reading Notes
 
 
