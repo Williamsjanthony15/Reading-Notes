@@ -22,11 +22,11 @@ Created and strongly supported from the start by Twitter, Google and other compa
 12. OAuth is not the first authentication/authorization system to work this way on behalf of the end-user. In fact, many authentication systems, notably Kerberos, work similarly.
  What is special about OAuth is its ability to work across the web and its wide adoption. It succeeded with adoption rates where previous attempts failed (for various reasons).
  
- OAuth vs. OpenID
+ ## OAuth vs. OpenID
  There are a couple of other security technologies that you might hear about in the same context as OAuth, and one of them is OpenID. At a base level, the distinction between the two is simple to grasp. Remember when we said up above that the auth in OAuth stood for authorization, not authentication? Well, OpenID is about authentication: as a commenter on StackOverflow pithily put it: "OpenID is for humans logging into machines, OAuth is for machines logging into machines on behalf of humans."
  
- OAuth vs. SAML
+ ## OAuth vs. SAML
  The Security Assertion Markup Language, or SAML, is another technology you'll hear talked about in the same breath as OAuth. Strictly speaking, the name SAML refers to an XML variant language, but the term can also cover various protocol messages and profiles that make up part of the open SAML standard.
  
- OAuth2
+ ## OAuth2
  There are no perfect universal internet-wide authentication standards. OAuth is particularly maligned because of the drastic changes between versions 1.0 and 2.0. In many ways, OAuth2 is less secure, more complex and less prescriptive than version 1.0. Version 2.0 creators focused on making OAuth more interoperable and flexible between sites and devices.
