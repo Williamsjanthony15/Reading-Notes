@@ -335,7 +335,7 @@ python3 manage.py migrate
 
 
 
-
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models CITATION .. Not my notes, Taken directly from the website.
 
 
 
