@@ -1,6 +1,10 @@
 # 401 Reading Notes
   <p> Reading notes for 401 Class </p>
 
+## [Prework Reading](/401_readingNotes/Prework_reading.md)
+
+## [Prework Notes](/401_readingNotes/Prework_Notes.md)
+
 ## [Reading 1](/401_readingNotes/Read_01.md)
 
 ## [Reading 2](/401_readingNotes/Read_02.md)
