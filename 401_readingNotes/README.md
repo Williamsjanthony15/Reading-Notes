@@ -49,3 +49,32 @@
 
 ## [Reading 24](/401_readingNotes/Read_24.md)
 
+## [Reading 25](/401_readingNotes/Read_25.md)
+
+## [Reading 26](/401_readingNotes/Read_26.md)
+
+## [Reading 27](/401_readingNotes/Read_27.md)
+
+## [Reading 28](/401_readingNotes/Read_28.md)
+
+## [Reading 29](/401_readingNotes/Read_29.md)
+
+## [Reading 30](/401_readingNotes/Read_30.md)
+
+## [Reading 31](/401_readingNotes/Read_31.md)
+
+## [Reading 32](/401_readingNotes/Read_32.md)
+
+## [Reading 33](/401_readingNotes/Read_33.md)
+
+## [Reading 34](/401_readingNotes/Read_34.md)
+
+## [Reading 35](/401_readingNotes/Read_35.md)
+
+## [Reading 36](/401_readingNotes/Read_36.md)
+
+## [Reading 37](/401_readingNotes/Read_37.md)
+
+## [Reading 38](/401_readingNotes/Read_38.md)
+
+## [Reading 39](/401_readingNotes/Read_39.md)
