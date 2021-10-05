@@ -7,11 +7,11 @@ Conditional rendering in React works the same way conditions work in JavaScript.
 Consider these two components:
 
 function UserGreeting(props) {
-  return <h1>Welcome back!</h1>;
+  return <h1> Welcome back! </h1>
 }
 
 function GuestGreeting(props) {
-  return <h1>Please sign up.</h1>;
+  return <h1> Please sign up. </h1>
 }
 
 We’ll create a Greeting component that displays either of these components depending on whether a user is logged in:
