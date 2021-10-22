@@ -1,3 +1,29 @@
+# Google and AI
+
+Google initially says their AI will be utilized for Weapons and Surveillance. They than backtrack and commit not to utilize it due to the employees protesting the comapnies involvement in "Project Maven". Project Maven is a pentagon pilot program that uses Artificial Intelligence to analyze drone footage. After announancing their removal from involvmenet in AI for Project Maven, Google released a statement that said they will continue to work with US military on Information Security, search and rescue, and "other non-offensive projects".
+
+-- Personally, I find it very hard to believe that Google, I fortune 500 company, would detach themselves from the Pentagon's project of utilizing AI for serveillance to analyze footage from drones in Combat Zones. When Google states (and i quote) "continue to work on ...... and other non-offensive projects." That to me spells out projects we dont want you to know were doing so we are going to put this into a broad overview term for legality reasons. 
+
+The pure thought of the capabilities that could arise from a break through in that technology is emense and would change the future to Combat / Technological warfare forever. Then to add onto the AI aspect, if we could get the AI to analyze enough drone footage of, Combat Threats, Combat Non-Threats, Children, Millitary Aged Males(MAM), Women, Weaponery, Explosives, Disturbed soil, ETC... we could then develop a machine learning algorythm to constantly evolve its analyzing capabilities and potentially change the way wars are fought, save thousands of lives, and mitigate non threatening causalities... 
+
+
+# Will democracy survive big data and AI?
+
+Will democracy service big data and artificial Intelligence
+
+In 2016 we produced as much data as in the entire histor of humankind through 2015. Every MINUTE, hundreds of thousands of google searches, and facebook posts are created. Think about it this way. Lets make this into an easy example to understand. If we got paid $100,000 every minute. we would would have :
+
+6 Million dollars every Hour!
+1 Billion 8 Million Dollars every week!
+4 Billion 32 Million Dollars every Month!
+48 Billion 384 Million Dollars every Year!
+
+
+And thats just 100,000! Imagine multiplying that by 2, 3, maybe 4! If you really truely think about what that is and what it means, you should be awstruck. Thats the amount of high level data is moving around on the internet. Thats not even binary or into data packets! Which is more! Every single time we do something on the internet it is being appended to a database and causing something else to happen. To me the endless possibilities are exciting and ready to be explored!
+
+
+
+
 ACM Code of Ethics and Professional Conduct
 Preamble
 Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The ACM Code of Ethics and Professional Conduct ("the Code") expresses the conscience of the profession.
