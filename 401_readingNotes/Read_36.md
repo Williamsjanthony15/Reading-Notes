@@ -2,7 +2,7 @@ ACM Code of Ethics and Professional Conduct
 Preamble
 Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The ACM Code of Ethics and Professional Conduct ("the Code") expresses the conscience of the profession.
 
-## GENERAL ETHICAL PRINCIPLES.
+# GENERAL ETHICAL PRINCIPLES.
 A computing professional should...
 
 ### Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing.
@@ -50,7 +50,7 @@ Only the minimum amount of personal information necessary should be collected in
 ### Honor confidentiality.
 Computing professionals are often entrusted with confidential information such as trade secrets, client data, nonpublic business strategies, financial information, research data, pre-publication scholarly articles, and patent applications. Computing professionals should protect confidentiality except in cases where it is evidence of the violation of law, of organizational regulations, or of the Code. In these cases, the nature or contents of that information should not be disclosed except to appropriate authorities. A computing professional should consider thoughtfully whether such disclosures are consistent with the Code.
 
-##  PROFESSIONAL RESPONSIBILITIES.
+#  PROFESSIONAL RESPONSIBILITIES.
 A computing professional should...
 
 ### Strive to achieve high quality in both the processes and products of professional work.
@@ -84,7 +84,7 @@ To ensure the system achieves its intended purpose, security features should be 
 
 In cases where misuse or harm are predictable or unavoidable, the best option may be to not implement the system.
 
-##  PROFESSIONAL LEADERSHIP PRINCIPLES.
+#  PROFESSIONAL LEADERSHIP PRINCIPLES.
 Leadership may either be a formal designation or arise informally from influence over others. In this section, "leader" means any member of an organization or group who has influence, educational responsibilities, or managerial responsibilities. While these principles apply to all computing professionals, leaders bear a heightened responsibility to uphold and promote them, both within and through their organizations.
 
 A computing professional, especially one acting as a leader, should...
@@ -110,7 +110,7 @@ Interface changes, the removal of features, and even software updates have an im
 ### Recognize and take special care of systems that become integrated into the infrastructure of society.
 Even the simplest computer systems have the potential to impact all aspects of society when integrated with everyday activities such as commerce, travel, government, healthcare, and education. When organizations and groups develop systems that become an important part of the infrastructure of society, their leaders have an added responsibility to be good stewards of these systems. Part of that stewardship requires establishing policies for fair system access, including for those who may have been excluded. That stewardship also requires that computing professionals monitor the level of integration of their systems into the infrastructure of society. As the level of adoption changes, the ethical responsibilities of the organization or group are likely to change as well. Continual monitoring of how society is using a system will allow the organization or group to remain consistent with their ethical obligations outlined in the Code. When appropriate standards of care do not exist, computing professionals have a duty to ensure they are developed.
 
-## COMPLIANCE WITH THE CODE.
+# COMPLIANCE WITH THE CODE.
 A computing professional should...
 
 ### Uphold, promote, and respect the principles of the Code.
