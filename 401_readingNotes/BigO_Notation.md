@@ -75,3 +75,4 @@ This type of algorithm is described as O(log N). The iterative halving of data s
 
 
 Notes taken directly from https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation. 
+
