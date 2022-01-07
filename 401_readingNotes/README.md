@@ -1,79 +1,79 @@
 # 401 Reading Notes
   <p> Reading notes for 401 Class </p>
 
-## [Prework Reading](/Python/Prework_reading.md)
+## [Prework Reading](Prework_reading.md)
 
-## [Prework Notes](/Python/Prework_Notes.md)
+## [Prework Notes](Prework_Notes.md)
 
-## [BigO_Notation](/Python/BigO_Notation.md) 
+## [BigO_Notation](BigO_Notation.md) 
 
-## [Binary Trees](/Python/BinaryTrees.md)
+## [Binary Trees](BinaryTrees.md)
 
-## [Reading Birds Eye View](/Python/BirdsEyeView.md)
+## [Reading Birds Eye View](BirdsEyeView.md)
 
-## [Ciphering / Deciphering](/Python/Cipher_DecipherText.md)
+## [Ciphering / Deciphering](Cipher_DecipherText.md)
 
-## [Classes and Objects](/Python/Classes_Objects.md)
+## [Classes and Objects](Classes_Objects.md)
 
-## [REACT Conditional Rendering](/Python/ConditionalRendering.md)
+## [REACT Conditional Rendering](ConditionalRendering.md)
 
-## [Configuring Django Settings](/Python/ConfigDjangoSettings.md)
+## [Configuring Django Settings](ConfigDjangoSettings.md)
 
-## [Django REST Framework Permissions](/Python/Django-REST-Framework.md)
+## [Django REST Framework Permissions](Django-REST-Framework.md)
 
-## [Django](/Python/Django.md)
+## [Django](Django.md)
 
-## [Django Best Practices](/Python/DjangoBestPracitces.md)
+## [Django Best Practices](DjangoBestPracitces.md)
 
-## [Django Forms](/Python/DjangoForms.md)
+## [Django Forms](DjangoForms.md)
 
-## [Django Models](/Python/DjangoModels.md)
+## [Django Models](DjangoModels.md)
 
-## [Docker](/Python/Docker.md)
+## [Docker](Docker.md)
 
-## [Dunder Methods](/Python/DunderMethods.md)
+## [Dunder Methods](DunderMethods.md)
 
-## [Dynamic Routes](/Python/DynamicRoutes.md)
+## [Dynamic Routes](DynamicRoutes.md)
 
-## [What Is a File?](/Python/Files.md)
+## [What Is a File?](Files.md)
 
-## [Google and AI](/Python/Google-AI_report.md)
+## [Google and AI](Google-AI_report.md)
 
-## [Graphs](/Python/Graphs.md)
+## [Graphs](Graphs.md)
 
-## [Hashtables](/Python/Hashtables.md)
+## [Hashtables](Hashtables.md)
 
-## [JSON Web Token(JWT)](/Python/JSON-WebToken.md)
+## [JSON Web Token(JWT)](JSON-WebToken.md)
 
-## [JupyterLab / Numpy](/Python/JupyterLab.md)
+## [JupyterLab / Numpy](JupyterLab.md)
 
-## [Linked Lists](/Python/LinkedList.md)
+## [Linked Lists](LinkedList.md)
 
-## [List Comprehensions](/Python/ListComprehensions.md)
+## [List Comprehensions](ListComprehensions.md)
 
-## [Machine Learning](/Python/MachineLearning.md)
+## [Machine Learning](MachineLearning.md)
 
-## [MatPlotLib](/Python/MatPlotLib.md)
+## [MatPlotLib](MatPlotLib.md)
 
-## [Modifying the Behavior of a Python Scope](/Python/ModingPythonScope.md)
+## [Modifying the Behavior of a Python Scope](ModingPythonScope.md)
 
-## [Next.js](/Python/NextJS.md)
+## [Next.js](NextJS.md)
 
-## [Next.js react app](/Python/NextJsReactApp.md)
+## [Next.js react app](NextJsReactApp.md)
 
-## [Pandas](/Python/Pandas.md)
+## [Pandas](Pandas.md)
 
-## [Random Module](/Python/RandomModule.md)
+## [Random Module](RandomModule.md)
 
-## [Regular Expression(REGEX)](/Python/RegularExpression(REGEX).md)
+## [Regular Expression(REGEX)](RegularExpression(REGEX).md)
 
-## [Stacks_Queues](/Python/StackTerminology.md)
+## [Stacks_Queues](StackTerminology.md)
 
-## [Test-Driven Development (TDD)](/Python/TestDrivenDevelopment(TDD).md) 
+## [Test-Driven Development (TDD)](TestDrivenDevelopment(TDD).md) 
 
-## [Web Scraping](/Python/WebScraping.md) 
+## [Web Scraping](WebScraping.md) 
 
-## [Whiteboard-style interviews](/Python/WhiteboardInterviews.md)
+## [Whiteboard-style interviews](WhiteboardInterviews.md)
 
 
 
