@@ -5,80 +5,131 @@
 
 ## [Prework Notes](/Python/Prework_Notes.md)
 
-## [BigO_Notation](/Python/BigO_Notation.md)
+## [BigO_Notation](/Python/BigO_Notation.md) 
 
-## [Test-Driven Development (TDD)](/Python/Test-Driven Development (TDD).md)
+## [Binary Trees](/Python/BinaryTrees.md)
+
+## [Reading Birds Eye View](/Python/BirdsEyeView.md)
+
+## [Ciphering / Deciphering](/Python/Cipher_DecipherText.md)
+
+## [Classes and Objects](/Python/Classes_Objects.md)
+
+## [REACT Conditional Rendering](/Python/ConditionalRendering.md)
+
+## [Configuring Django Settings](/Python/ConfigDjangoSettings.md)
+
+## [Django REST Framework Permissions](/Python/Django-REST-Framework.md)
+
+## [Django](/Python/Django.md)
+
+## [Django Best Practices](/Python/DjangoBestPracitces.md)
+
+## [Django Forms](/Python/DjangoForms.md)
+
+## [Django Models](/Python/DjangoModels.md)
+
+## [Docker](/Python/Docker.md)
+
+## [Dunder Methods](/Python/DunderMethods.md)
+
+## [Dynamic Routes](/Python/DynamicRoutes.md)
 
 ## [What Is a File?](/Python/Files.md)
 
-## [Classes and Objects](/Python/Classes_and_Objects.md)
+## [Google and AI](/Python/Google-AI_report.md)
 
-## [Linked Lists](/Python/Read_05.md)
+## [Graphs](/Python/Graphs.md)
 
-## [Random Module](/Python/Read_06.md)
+## [Hashtables](/Python/Hashtables.md)
 
-## [Modifying the Behavior of a Python Scope](/Python/Read_07.md)
+## [JSON Web Token(JWT)](/Python/JSON-WebToken.md)
 
-## [List Comprehensions](/Python/Read_08.md)
+## [JupyterLab / Numpy](/Python/JupyterLab.md)
 
-## [Dunder Methods](/Python/Read_09.md)
+## [Linked Lists](/Python/LinkedList.md)
 
-## [Stacks_Queues](/Python/Read_10.md)
+## [List Comprehensions](/Python/ListComprehensions.md)
 
-## [JupyterLab / Numpy](/Python/Read_11.md)
+## [Machine Learning](/Python/MachineLearning.md)
 
-## [Pandas](/Python/Read_12.md)
+## [MatPlotLib](/Python/MatPlotLib.md)
 
-## [Machine Learning](/Python/Read_13.md)
+## [Modifying the Behavior of a Python Scope](/Python/ModingPythonScope.md)
 
-## [MatPlotLib](/Python/Read_14.md)
+## [Next.js](/Python/NextJS.md)
 
-## [Binary Trees](/Python/Read_15.md)
+## [Next.js react app](/Python/NextJsReactApp.md)
 
-## [Data Science](/Python/Read_16.md)
+## [Pandas](/Python/Pandas.md)
 
-## [Web Scraping](/Python/Read_17.md)
+## [Random Module](/Python/RandomModule.md)
 
-## [Ciphering / Deciphering](/Python/Read_18.md)
+## [Regular Expression(REGEX)](/Python/RegularExpression(REGEX).md)
 
-## [Regular Expression(REGEX)](/Python/Read_19.md)
+## [Stacks_Queues](/Python/StackTerminology.md)
 
-## [DJANGO](/Python/Read_20.md)
+## [Test-Driven Development (TDD)](/Python/TestDrivenDevelopment(TDD).md) 
 
-## [DJANGO P3](/Python/Read_21.md)
+## [Web Scraping](/Python/WebScraping.md) 
 
-## [Django Forms](/Python/Read_22.md)
+## [Whiteboard-style interviews](/Python/WhiteboardInterviews.md)
 
-## [Django Best Practices](/Python/Read_23.md)
 
-## [Hashtables](/Python/Read_24.md)
 
-## [Docker](/Python/Read_25.md)
 
-## [Django REST Framework Permissions](/Python/Read_26.md)
 
-## [JSON Web Token(JWT)](/Python/Read_27.md)
 
-## [Configuring Django Settings](/Python/Read_28.md)
 
-## [Graphs](/Python/Read_29.md)
 
-## [Whiteboard-style interviews](/Python/Read_30.md)
 
-## [Next.js react app](/Python/Read_31.md)
 
-## [REACT Conditional Rendering](/Python/Read_32.md)
 
-## [Next.js](/Python/Read_33.md)
 
-## [Dynamic Routes](/Python/Read_34.md)
 
-## [Python Iterators](/Python/Read_35.md)
 
-## [Google and AI](/Python/Read_36.md)
 
-## [Reading 37](/Python/Read_37.md)
 
-## [Reading 38](/Python/Read_38.md)
 
-## [Reading 39](/Python/Read_39.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

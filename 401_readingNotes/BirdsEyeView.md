@@ -1,4 +1,4 @@
-Chapter 1: Bird's Eye View
+# Chapter 1: Bird's Eye View
 First, let’s start with the “80/20” of data science…
 
 Generally speaking, we can break down applied machine learning into the following chunks:

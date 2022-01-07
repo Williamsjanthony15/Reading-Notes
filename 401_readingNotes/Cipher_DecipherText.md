@@ -1,4 +1,4 @@
-#Ciphering text and Deciphering text.
+# Ciphering text and Deciphering text.
 
 ## Encrypting a message
 The Caesar Cipher is a simple substitution cipher which replaces each original letter with a different letter in the alphabet by shifting the alphabet by a certain amount.
